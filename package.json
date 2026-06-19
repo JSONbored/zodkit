@@ -107,7 +107,7 @@
 		"fast-glob": "^3.3.3",
 		"glob": "^11.1.0",
 		"picocolors": "^1.1.1",
-		"ws": "^8.18.3",
+		"ws": "^8.21.0",
 		"zod": "^4.1.11"
 	},
 	"devDependencies": {
@@ -142,7 +142,7 @@
 		"typedoc": "^0.28.13",
 		"typescript": "^5.9.2",
 		"ultracite": "^5.5.0",
-		"webpack": "^5.101.3",
+		"webpack": "^5.107.2",
 		"webpack-bundle-analyzer": "^4.10.2",
 		"webpack-cli": "^5.1.4"
 	}
